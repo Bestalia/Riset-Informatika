@@ -3,7 +3,7 @@ Nama : Bestalia Mangunsong <br>
 NPM : 20081010170 <br>
 Kelas : D081 <br>
 
-### TOPIK PENELITIAN
+### Perbedaan Metode dan Metodologi
 - Metode : Merujuk pada cara atau langkah-langkah konkret yang digunakan untuk mengumpulkan data atau informasi, menganalisisnya, dan mencapai tujuan tertentu dalam suatu penelitian atau kegiatan. Metode lebih fokus pada tindakan atau langkah-langkah yang dilakukan.
 - Metodologi : Merujuk pada kerangka konseptual yang melibatkan landasan filosofis, teori, dan prinsip-prinsip yang mendukung penelitian atau kegiatan tertentu. Metodologi memberikan dasar untuk memilih dan menerapkan metode tertentu. Ini lebih bersifat abstrak dan menyeluruh.
 
@@ -18,10 +18,10 @@ Kelas : D081 <br>
 
 ### Implementasi pada Penelitian
 1. Metode
-   - Algoritma Apriori adalah suatu algoritma dasar yang diusulkan oleh Agrawal & Srikant pada tahun 1994 untuk penentuan frequent itemsets untuk aturan asosiasi boolean. Algoritma Apriori termasuk jenis aturan asosiasi pada data mining. Aturan yang menyatakan asosiasi antara beberapa atribut sering disebut affinity analisis atau market basket analisis. Analisis asosiasi atau association rule mining adalah teknik data mining untuk menemukan aturan asosiatif antara suatu kombinasi item.
-2. Metodologi
    - Observasi: Melakukan  Pengamatan  langsung  terhadap  sistem  kerja  dan  pencatatan  secara  cermat  guna mengumpulkan  data-data  dan  diperoleh  informasi  yang  dibutuhkan.
    - Wawancara: Teknik  pengumpulan  data  dengan  cara  berinteraksi  atau  berkomunikasi  secara  langsung dengan mengajukan pertanyaan yang sesuai topik yang diambil.
    - Studi Pustaka: Metode ini  dilakukan  dengan  mempelajari  buku,  jurnal  ilmiah  dan  sumber-sumber  dari  berbagai  situs yang berkaitan dengan pemodelan.
 
+2. Metodologi
+   - Algoritma Apriori adalah suatu algoritma dasar yang diusulkan oleh Agrawal & Srikant pada tahun 1994 untuk penentuan frequent itemsets untuk aturan asosiasi boolean. Algoritma Apriori termasuk jenis aturan asosiasi pada data mining. Aturan yang menyatakan asosiasi antara beberapa atribut sering disebut affinity analisis atau market basket analisis. Analisis asosiasi atau association rule mining adalah teknik data mining untuk menemukan aturan asosiatif antara suatu kombinasi item.
    
