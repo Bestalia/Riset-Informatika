@@ -15,7 +15,7 @@ Mengoptimalkan Keunggulan Bisnis dengan Analisis RFM untuk Segmentasi Loyalitas 
 [US Regional Sales](https://raw.githubusercontent.com/Bestalia/Riset-Informatika/main/Analisis%20RFM%20untuk%20Segmentasi%20Loyalitas%20Pelanggan/US%20Regional%20Sales.xlsx)
 
 ## Visualisasi
-Visualisasi hasil analisis RFM menggunakan tools tableau dapat dilihat pada tautan [berikut ini](https://public.tableau.com/views/VisualisasiHasilAnalisisSegmentasiLoyalitasPelanggan/judulobjectivestujuan?:language=en-US&:display_count=n&:origin=viz_share_link)
+Visualisasi hasil analisis RFM menggunakan tools tableau dapat dilihat pada tautan [berikut ini](https://public.tableau.com/shared/BHPZ26DWZ?:display_count=n&:origin=viz_share_link)
 - Overview Dashboard
   ![Overview](https://github.com/Bestalia/Riset-Informatika/assets/105914058/f9f39d36-a3ea-4dc9-8c39-f569bbd08aea)
 
