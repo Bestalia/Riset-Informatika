@@ -15,13 +15,12 @@ Mengoptimalkan Keunggulan Bisnis dengan Analisis RFM untuk Segmentasi Loyalitas 
 [US Regional Sales](https://raw.githubusercontent.com/Bestalia/Riset-Informatika/main/Analisis%20RFM%20untuk%20Segmentasi%20Loyalitas%20Pelanggan/US%20Regional%20Sales.xlsx)
 
 ## Visualisasi
-Visualisasi hasil analisis RFM menggunakan tools tableau dapat dilihat pada tautan [berikut ini](https://public.tableau.com/views/VisualisasiFinalProject/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Visualisasi hasil analisis RFM menggunakan tools tableau dapat dilihat pada tautan [berikut ini](https://public.tableau.com/views/VisualisasiHasilAnalisisSegmentasiLoyalitasPelanggan/judulobjectivestujuan?:language=en-US&:display_count=n&:origin=viz_share_link)
 - Overview Dashboard
-  ![Overview](https://github.com/Bestalia/Riset-Informatika/assets/105914058/bb17172a-d71d-467b-a5bf-caeacc86567d)
+  ![Overview](https://github.com/Bestalia/Riset-Informatika/assets/105914058/f9f39d36-a3ea-4dc9-8c39-f569bbd08aea)
 
 - Analisis RFM Dashboard
-  ![Analisis RFM](https://github.com/Bestalia/Riset-Informatika/assets/105914058/56a9b162-bff4-4c27-b89d-85d978c1cb7f)
- 
-- RFM Dashboard
-  ![RFM](https://github.com/Bestalia/Riset-Informatika/assets/105914058/fcd19362-d661-414f-9376-910550d9cc26)
+  ![Analisis RFM](https://github.com/Bestalia/Riset-Informatika/assets/105914058/6f40bbb8-33fd-4af4-950e-c56b758424c0)
 
+- RFM Dashboard
+  ![RFM](https://github.com/Bestalia/Riset-Informatika/assets/105914058/3ae2269b-48e3-47da-95fa-55644133cd7e)
